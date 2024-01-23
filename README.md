@@ -27,6 +27,6 @@ as well as the original KTA dataset paper "Kitchen task assessment dataset for m
 }
 
 
-
-
+# Description of the files
+All the archive files containing our data are in the folder *data* which contains two other folders *all_actions* (containing the experimental data and the labels we used for the evaluation of the classifier when trained with all action classes in the KTA dataset), and *actions_most_common* (containing the experimental data and labels we used to evaluate the classifier on the 6 most common actions).
 
